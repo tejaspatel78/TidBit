@@ -1,0 +1,1 @@
+{"__v":0,"_id":{"$oid":"5e29b7461852ae3e7069ccff"},"created_by":1,"created_on":{"$date":"2020-01-23T15:09:58.579Z"},"description":"practical test in company","event_end_date":{"$date":"2011-10-10T14:48:00.000Z"},"event_id":{"$numberLong":"1"},"event_start_date":{"$date":"2011-10-05T14:48:00.000Z"},"name":"Practical","place":"rajkot","status":true,"user_applied":[2]}

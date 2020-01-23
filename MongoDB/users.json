@@ -1,0 +1,3 @@
+{"__v":0,"_id":{"$oid":"5e29add6452eeb0cd482816f"},"email":"karan@gmail.com","password":"$2a$10$XPvzIPInRlTo/IwvuTVnPe5KCsB87YZH7UfrePd9kuZ8V6aH/WHRW","role":"Admin","user_id":{"$numberLong":"1"},"username":"karan"}
+{"__v":0,"_id":{"$oid":"5e29af231bae8a0ddcbc66af"},"email":"nehal@gmail.com","password":"$2a$10$h/Sx8uMjISKmc3DvzqXpM.7zSKqF9ti3DSMbc1ffuWasQ63xyZ/I2","role":"Client","user_id":{"$numberLong":"2"},"username":"Nehal"}
+{"__v":0,"_id":{"$oid":"5e29c734ba31163e503c2001"},"email":"nilesh@gmail.com","password":"$2a$10$QG0qPzvyeI9zkspw1ciWQe/dVkjb0NeXeVnqy5Gw6ix9ZKWga1sXG","role":"Admin","user_id":{"$numberLong":"6"},"username":"nilesh"}
